@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Welcom",
+    "pages/Login",
+    "pages/Main",
+    "pages/My",
+    "pages/Login",
+    "pages/Bye",
+    "pages/news",
+    "pages/sort2",
+    "pages/zhuce",
+    "pages/ku"
+  ]
+}
